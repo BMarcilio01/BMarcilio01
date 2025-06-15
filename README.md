@@ -1,7 +1,10 @@
 # 👩🏻‍💻 Breno Marcílio
+## 🚀 Sobre mim
 
 Me chamo Breno da Silva Marcílio, tenho 31 anos e sou natural de Brasília. Atualmente, estou cursando Sistemas de Informação na Gran Faculdade.
 
+- 🔹 LinkedIn: [Breno Marcílio](https://www.linkedin.com/in/breno-marcilio/)
+  
 ---
 
 ### 🤖 Linguagens e Tecnologias
