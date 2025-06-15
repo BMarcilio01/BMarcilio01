@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Breno da Silva Marcílio, tenho 31 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Gran Faculdade. Sou apaixonado por tecnologia.
+Me chamo Breno da Silva Marcílio, tenho 31 anos e sou natural de Brasília. Atualmente, estou cursando Sistemas de Informação na Gran Faculdade. Sou apaixonado por tecnologia.
 
 ---
 
